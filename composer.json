@@ -1,0 +1,23 @@
+{
+  "name": "faisalrehmanid/fr-cryptor",
+  "description": "This library provide simple encryption and decryption",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Faisal Rehman",
+      "email": "faisalrehmanid@hotmail.com"
+    }
+  ],
+  "keywords": [
+    "Encryption",
+    "Decryption"
+  ],
+  "autoload": {
+    "psr-4": {
+      "FR\\Cryptor\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
